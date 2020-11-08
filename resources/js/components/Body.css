@@ -1,0 +1,25 @@
+.Body
+{
+  background-color: #F0F8FF;
+  height: 100vh;
+  position: fixed !important;
+  width: 100% !important;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+.container
+{
+  padding-top: 60px !important;
+}
+.image
+{
+  border-radius: 50%;
+}
+.grid
+{
+  padding-top: 120px !important;
+}
+.grid-row
+{
+  padding-top: 0px !important;
+}

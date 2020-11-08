@@ -1,0 +1,20 @@
+.footer
+{
+  bottom: 0px !important;
+  position: fixed;
+  height: 8vh;
+  background-color: #DC143C !important;
+  opacity: 0.8;
+  color: rgb(255, 255, 255) !important;
+  width: 100% !important;
+  padding: 2vh !important;
+  text-align: center;
+}
+.link-footer
+{
+  color: rgb(255, 255, 255) !important;
+}
+.grid-row
+{
+  padding-top: 0px !important;
+}

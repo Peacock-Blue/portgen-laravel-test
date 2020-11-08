@@ -1,0 +1,31 @@
+.drawer
+{
+  opacity: 0.8 !important;
+  height: 100vh !important;
+  position: fixed !important;
+  width: 150px !important;
+  z-index: 1;
+}
+.hide
+{
+  display: none !important;
+}
+.menu
+{
+  padding-top: 10px !important;
+  padding-left: 10px !important;
+  padding-bottom: 10px !important;
+  background-color: rgba(0, 0, 0, 0.5);
+  position: fixed !important;
+  z-index: 1 !important;
+  width: 100% !important;
+}
+.menuicon:hover
+{
+  cursor: pointer;
+}
+.divider
+{
+  margin-bottom: 0px !important;
+  margin-top: 0px !important;
+}
